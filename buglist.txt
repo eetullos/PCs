@@ -1,5 +1,6 @@
 document field data references
-ensure consistency with methane concentration vs. whole gas emission rate and gas density in conversions
+ensure consistency with methane concentration vs. whole gas emission rate and gas density in conversions (may need to add - or could provide whole gas)
 Add downloadable file to the streamlit app to describe algorithm and output
 add button to allow user to email developer (ceesa email)
 add license (TBD) to footer, github file, streamlit browser page and commented in code
+add statement in output file as to whether the default malf and prop rates were used or the values were custom
